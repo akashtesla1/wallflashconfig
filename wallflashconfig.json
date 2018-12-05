@@ -180,8 +180,8 @@
 			"author": "by Unsplash",
 			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jack-b-723710-unsplash-min.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jack-b-723710-unsplash-min.jpg",
-			"name": "A1",
-			"category": "Animals"
+			"name": "M6",
+			"category": "Monuments"
 		},
 		{
 			"author": "by Unsplash",
@@ -189,7 +189,131 @@
 			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/android-wallpaper-backlit-cavalry-1366913-min.jpg",
 			"name": "A1",
 			"category": "Animal"
+		},
+		{
+			"author": "by Pexels",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/action-astronomy-constellation-1274260.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/action-astronomy-constellation-1274260.jpg",
+			"name": "L2",
+			"category": "Living"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/daoud-abismail-794182-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/daoud-abismail-794182-unsplash.jpg",
+			"name": "L3",
+			"category": "Living"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jamie-street-420851-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jamie-street-420851-unsplash.jpg",
+			"name": "L4",
+			"category": "Living"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/karl-jk-hedin-482509-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/karl-jk-hedin-482509-unsplash.jpg",
+			"name": "L5",
+			"category": "Living"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/max-bender-560106-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/max-bender-560106-unsplash.jpg",
+			"name": "L6",
+			"category": "Living"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/wild-vibez-317184-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/wild-vibez-317184-unsplash.jpg",
+			"name": "L7",
+			"category": "Living"
+		},
+		{
+			"author": "by Pexels",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/angry-animal-animal-photography-516541.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/angry-animal-animal-photography-516541.jpg",
+			"name": "A2",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jack-b-723710-unsplash-min.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jack-b-723710-unsplash-min.jpg",
+			"name": "A3",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/animal-photography-daylight-elephant-247431.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/animal-photography-daylight-elephant-247431.jpg",
+			"name": "A4",
+			"category": "Animals"
+		},
+		{
+			"author": "by Pexels",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/david-clode-791991-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/david-clode-791991-unsplash.jpg",
+			"name": "A5",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/erin-wilson-712754-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/erin-wilson-712754-unsplash.jpg",
+			"name": "A6",
+			"category": "Animals"
+		},
+		
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/geran-de-klerk-351820-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/geran-de-klerk-351820-unsplash.jpg",
+			"name": "A7",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jf-brou-358069-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jf-brou-358069-unsplash.jpg",
+			"name": "A8",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jonatan-pie-117073-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/jonatan-pie-117073-unsplash.jpg",
+			"name": "A9",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/ken-treloar-638990-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/ken-treloar-638990-unsplash.jpg",
+			"name": "A10",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/ryan-walton-367436-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/ryan-walton-367436-unsplash.jpg",
+			"name": "A11",
+			"category": "Animals"
+		},
+		{
+			"author": "by Unsplash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/linnea-sandbakk-91258-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/linnea-sandbakk-91258-unsplash.jpg",
+			"name": "A12",
+			"category": "Animals"
 		}
+		
+		
+		
+		
 		
 	]
 }
