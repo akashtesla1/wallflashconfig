@@ -25,7 +25,10 @@
 		},
 		{
 			"name": "Amoled"
-		}
+		},
+		       {
+			       "name": "Marvel"
+		       }
 	],
 
 	"Wallpapers": [
@@ -35,6 +38,209 @@
 			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/garth-pratt-33610-unsplash.jpg",
 			"name": "M1",
 			"category": "Monuments"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/wonder-woman.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/wonder-woman.jpg",
+			"name": "SM1",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/spiderman17.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/spiderman17.jpg",
+			"name": "SM2",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/spiderman13.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/spiderman13.jpg",
+			"name": "SM3",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/spiderman-into-the-spider-verse.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/spiderman-into-the-spider-verse.jpg",
+			"name": "SM4",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel4-superhero13.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel4-superhero13.jpg",
+			"name": "SM5",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel3-superhero9.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel3-superhero9.jpg",
+			"name": "SM6",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel4-superhero13.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel4-superhero13.jpg",
+			"name": "SM7",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel2-superhero8.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel2-superhero8.jpg",
+			"name": "SM8",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel1-superhero7.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel1-superhero7.jpg",
+			"name": "SM9",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/gamora-digital.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/gamora-digital.jpg",
+			"name": "SM10",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/hulk-polyart.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/hulk-polyart.jpg",
+			"name": "SM11",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/doctor-strange-in-avengers-infinity.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/doctor-strange-in-avengers-infinity.jpg",
+			"name": "SM12",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/captain-america.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/captain-america.jpg",
+			"name": "SM13",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/captain-america-avengers-infinity-war.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/captain-america-avengers-infinity-war.jpg",
+			"name": "SM14",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/captain-america-and-wonder-woman.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/captain-america-and-wonder-woman.jpg",
+			"name": "SM15",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo9-superhero3.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo9-superhero3.jpg",
+			"name": "SM16",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo8-superhero2.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo8-superhero2.jpg",
+			"name": "SM17",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo7-superhero1.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo7-superhero1.jpg",
+			"name": "SM18",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo16-superhero16.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo16-superhero16.jpg",
+			"name": "SM19",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo15-superhero112.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo15-superhero112.jpg",
+			"name": "SM20",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo14-superhero10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo14-superhero10.jpg",
+			"name": "SM21",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo13-superhero10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo13-superhero10.jpg",
+			"name": "SM22",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo12-superhero6.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo12-superhero6.jpg",
+			"name": "SM23",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo12-pokeon-superhero5.png",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo12-pokeon-superhero5.png",
+			"name": "SM24",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo11-superhero5.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/amo11-superhero5.jpg",
+			"name": "SM25",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Marvel77.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Marvel77.jpg",
+			"name": "SM26",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Marvel6-superhero16.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Marvel6-superhero16.jpg",
+			"name": "SM27",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Marvel17-13.jpeg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Marvel17-13.jpeg",
+			"name": "SM28",
+			"category": "Marvel"
+		},
+		{
+                        "author":"by WallFlash",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/DC1-superhero10.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/DC1-superhero10.jpg",
+			"name": "SM29",
+			"category": "Marvel"
 		},
 		{
                         "author":"by Unsplash",
