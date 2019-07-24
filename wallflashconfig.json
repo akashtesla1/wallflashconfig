@@ -81,14 +81,7 @@
 			"name": "SM6",
 			"category": "Marvel"
 		},
-		{
-                        "author":"by WallFlash",
-			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel4-superhero13.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel4-superhero13.jpg",
-			"name": "SM7",
-			"category": "Marvel"
-		},
-		{
+			{
                         "author":"by WallFlash",
 			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel2-superhero8.jpg",
 			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/marvel2-superhero8.jpg",
@@ -362,9 +355,9 @@
 			"category": "Over Seas"
 		},
 		{
-			"author": "by Unsplash",
-			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/anthony-delanoix-8638-unsplash-min.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/anthony-delanoix-8638-unsplash-min.jpg",
+			"author": "by Ravi Patel",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/ravi-patel-kWRo3m0_DZU-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/ravi-patel-kWRo3m0_DZU-unsplash.jpg",
 			"name": "M3",
 			"category": "Monuments"
 		},
@@ -629,9 +622,44 @@
 			"category": "Amoled"
 		},
 		{
-			"author": "by Unsplash",
-			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/matthew-smith-5935-unsplash.jpg",
-			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/matthew-smith-5935-unsplash.jpg",
+			"author": "by zane lee",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-mRjFk-cDOMc-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-mRjFk-cDOMc-unsplash.jpg",
+			"name": "M7",
+			"category": "Monuments"
+		},
+		{
+			"author": "by zane lee",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-k3X_W-YPs7k-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-k3X_W-YPs7k-unsplash.jpg",
+			"name": "M8",
+			"category": "Monuments"
+		},
+		{
+			"author": "by zane lee",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-joJvfijEc4s-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-joJvfijEc4s-unsplash.jpg",
+			"name": "M9",
+			"category": "Monuments"
+		},
+		{
+			"author": "by zane lee",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-X8InU4S5n1k-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/zane-lee-X8InU4S5n1k-unsplash.jpg",
+			"name": "M10",
+			"category": "Monuments"
+		},
+		{
+			"author": "by Szabo Viktor",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/szabo-viktor-_X5XbpfXZFU-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/szabo-viktor-_X5XbpfXZFU-unsplash.jpg",
+			"name": "N21",
+			"category": "Nature"
+		},
+		{
+			"author": "by Sitraka Rakotoarivelo",
+			"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/sitraka-rakotoarivelo-gQIgYY8lsHw-unsplash.jpg",
+			"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/sitraka-rakotoarivelo-gQIgYY8lsHw-unsplash.jpg",
 			"name": "N20",
 			"category": "Nature"
 		}
