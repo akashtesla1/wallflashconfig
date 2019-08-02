@@ -27,6 +27,12 @@
 			"name": "Amoled"
 		},
 		       {
+			"name": "Game"
+		},
+		       {
+			"name": "Anime"
+		},
+		       {
 			       "name": "Marvel"
 		       }
 	],
@@ -45,6 +51,83 @@
 "thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Amoled11.jpg",
 "name": "Amoled9",
 "category": "Amoled"
+},
+		{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0010.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0010.jpg",
+"name": "Amoled33",
+"category": "Amoled"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0011.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0011.jpg",
+"name": "Amoled34",
+"category": "Amoled"
+},
+{
+"author": "unknwon",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0013.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0013.jpg",
+"name": "Game1",
+"category": "Game"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0016.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0016.jpg",
+"name": "Anime1",
+"category": "Anime"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0020.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0020.jpg",
+"name": "Amoled35",
+"category": "Amoled"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0023.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0023.jpg",
+"name": "L8",
+"category": "Living"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0024.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0024.jpg",
+"name": "Anime2",
+"category": "Anime"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0027.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0027.jpg",
+"name": "Amoled36",
+"category": "Amoled"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0049.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0049.jpg",
+"name": "L9",
+"category": "Living"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0053.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0053.jpg",
+"name": "OS7",
+"category": "Over Seas"
+},
+{
+"author": "unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0054.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/IMG-20170319-WA0054.jpg",
+"name": "A13",
+"category": "Animals"
 },
 		{
 "author": "unknown",
