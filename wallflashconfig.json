@@ -32,6 +32,9 @@
 		       {
 			"name": "Anime"
 		},
+		        {
+			"name": "Quotes"
+		},
 		       {
 			       "name": "Marvel"
 		       }
@@ -51,6 +54,76 @@
 "thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Amoled11.jpg",
 "name": "Amoled9",
 "category": "Amoled"
+},
+		{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Telly7906_rectangle.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Telly7906_rectangle.jpg",
+"name": "Quotes1",
+"category": "Quotes"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/temp.png",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/temp.png",
+"name": "Amoled47",
+"category": "Amoled"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Galaxy%20S9_754.png",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Galaxy%20S9_754.png",
+"name": "Amoled48",
+"category": "Amoled"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Fire_7531.jpeg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Fire_7531.jpeg",
+"name": "Amoled49",
+"category": "Amoled"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Eye%20on%20the%20prize7676_rectangle.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Eye%20on%20the%20prize7676_rectangle.jpg",
+"name": "Amoled50",
+"category": "Amoled"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Eiffel%20tower_989.jpeg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Eiffel%20tower_989.jpeg",
+"name": "Monuments12",
+"category": "Monuments"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Corleone3281_rectangle.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Corleone3281_rectangle.jpg",
+"name": "Amoled51",
+"category": "Amoled"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Bulb_1221.jpeg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Bulb_1221.jpeg",
+"name": "Amoled52",
+"category": "Amoled"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Bokeh_2577.jpeg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Bokeh_2577.jpeg",
+"name": "Living10",
+"category": "Living"
+},
+{
+"author": "by unknown",
+"url": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Nobody%20cares3669_rectangle.jpg",
+"thumbUrl": "https://raw.githubusercontent.com/akashtesla1/wallflashconfig/master/Nobody%20cares3669_rectangle.jpg",
+"name": "Quotes2",
+"category": "Quotes"
 },
 		{
 "author": "by unknown",
